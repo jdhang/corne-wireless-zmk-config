@@ -13,7 +13,6 @@
     tapping_term_ms = <200>;
 };
 
-
 / {
         behaviors {
                 skq: sticky_key_quick_release {
